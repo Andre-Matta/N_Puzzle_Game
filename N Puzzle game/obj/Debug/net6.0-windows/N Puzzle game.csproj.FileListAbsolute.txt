@@ -1,0 +1,46 @@
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\bin\Debug\net6.0-windows\N Puzzle game.exe
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\bin\Debug\net6.0-windows\N Puzzle game.deps.json
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\bin\Debug\net6.0-windows\N Puzzle game.runtimeconfig.json
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\bin\Debug\net6.0-windows\N Puzzle game.dll
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\bin\Debug\net6.0-windows\N Puzzle game.pdb
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.csproj.AssemblyReference.cache
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.csproj.GenerateResource.cache
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.AssemblyInfoInputs.cache
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.AssemblyInfo.cs
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.csproj.CoreCompileInputs.cache
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.dll
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\refint\N Puzzle game.dll
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.pdb
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.genruntimeconfig.cache
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\ref\N Puzzle game.dll
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Properties.Resources.resources
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Main_Menu.resources
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Level.resources
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Puzzle_15.resources
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Puzzle_8.resources
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Puzzle_N.resources
+C:\Users\Andy\Downloads\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Insert_Puzzle.resources
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.csproj.AssemblyReference.cache
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Insert_Puzzle.resources
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Level.resources
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Main_Menu.resources
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Properties.Resources.resources
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Puzzle_15.resources
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Puzzle_8.resources
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N_Puzzle_game.Puzzle_N.resources
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.csproj.GenerateResource.cache
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.GeneratedMSBuildEditorConfig.editorconfig
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.AssemblyInfoInputs.cache
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.AssemblyInfo.cs
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.csproj.CoreCompileInputs.cache
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.dll
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\refint\N Puzzle game.dll
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.pdb
+D:\uni\algo\N Puzzle game\N Puzzle game\bin\Debug\net6.0-windows\N Puzzle game.exe
+D:\uni\algo\N Puzzle game\N Puzzle game\bin\Debug\net6.0-windows\N Puzzle game.deps.json
+D:\uni\algo\N Puzzle game\N Puzzle game\bin\Debug\net6.0-windows\N Puzzle game.runtimeconfig.json
+D:\uni\algo\N Puzzle game\N Puzzle game\bin\Debug\net6.0-windows\N Puzzle game.dll
+D:\uni\algo\N Puzzle game\N Puzzle game\bin\Debug\net6.0-windows\N Puzzle game.pdb
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\N Puzzle game.genruntimeconfig.cache
+D:\uni\algo\N Puzzle game\N Puzzle game\obj\Debug\net6.0-windows\ref\N Puzzle game.dll
