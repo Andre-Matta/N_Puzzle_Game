@@ -1,7 +1,7 @@
 # N_Puzzle_Game
 Solve N puzzle with steps
 
-![4](screenshots/img1.png)
+![](screenshots/img1.png)
 
 ![](screenshots/img2.png)
 
