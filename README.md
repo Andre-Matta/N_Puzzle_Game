@@ -1,10 +1,10 @@
 # N_Puzzle_Game
 Solve N puzzle with steps
 
-![](screenshots/find.png)
+![](screenshots/img1.png)
 
-![](screenshots/near.png)
+![](screenshots/img2.png)
 
-![](screenshots/deliver.png)
+![](screenshots/img3.png)
 
-![](screenshots/report.png)
+![](screenshots/img4.png)
